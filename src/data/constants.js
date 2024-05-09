@@ -162,7 +162,7 @@ export const experiences = [
     img: "https://media.licdn.com/dms/image/D560BAQFDUKPSU8P0Lw/company-logo_200_200/0/1687947132305?e=1698278400&v=beta&t=cBF3SdszRLspmyvV-rHa1y4tdj_hjjivH7Xy0Z7kOD8",
     role: "Hands-On Experience",
     date: "June 2020 - Present",
-    desc: "I bring over two years of experience in Java application projects, where I developed practical solutions for various needs. Additionally, I have about one year of hands-on experience in ReactJS, where I created engaging user interfaces and implemented interactive features. My experience extends to Spring Boot, where I worked on backend services to support web applications. Moreover, I have practical exposure to MySQL projects, where I managed databases and executed complex queries. I am actively engaged in real-life projects using the PHP framework Laravel.",
+    desc: "I bring over two years of experience in Java application projects, where I developed practical solutions for various needs. Additionally, I have about one year of hands-on experience in ReactJS, where I created engaging user interfaces and implemented interactive features. My experience extends to Spring Boot, where I worked on backend services to support web applications.",
     skills: [
       "HTML",
       "CSS",
