@@ -182,8 +182,8 @@ export const ResumeButton = styled.a`
 const HeroSection = () => {
   const handleDownloadCV = () => {
     const link = document.createElement('a');
-    link.href = '/img/Heshan_Nawamina_Resume.pdf'; // Update with your CV file path
-    link.download = 'Heshan_Nawamina_Resume.pdf'; // Update with your CV file name
+    link.href = '/img/Heshan Nawamina_CV.pdf'; 
+    link.download = 'Heshan Nawamina_CV.pdf'; 
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
